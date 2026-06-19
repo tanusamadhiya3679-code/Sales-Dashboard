@@ -38,4 +38,4 @@ Show what the dashboard looks like. 1[Alt text](https://github.com/tanusamadhiya
 Example: 1[Dashboard Preview](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)
 <img width="614" height="338" alt="Dashboard Snapshot" src="https://github.com/user-attachments/assets/732c8605-b1ea-44fb-acac-24827e9ef2c6" />
 
-
+[Sales Report show](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/blob/main/Sales%20Report%20(1).pbit)

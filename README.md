@@ -1,35 +1,38 @@
-# 1. Repository Name (Project ka Naam)
-Ek chhota aur clear naam rakhein:
+1. 📊 Sales Performance Dashboard (2025-26)
 
-* sales-dashboard-2025-26
-* sales-performance-analytics
+2. 📝 Short Description
+An interactive and dynamic data analytics dashboard designed to track business performance, monitor revenue metrics, and analyze brand distribution for the fiscal year 2025-26. This project empowers stakeholders to make data-driven decisions by visualizing key performance indicators (KPIs) and regional sales trends.
+3. 🛠️ Tech Stack
+* **Data Visualization:** Power BI Desktop / Excel / Tableau
+* **Data Transformation:** Power Query
+* **Analytical Calculations:** DAX (Data Analysis Expressions)
 
-## 2. Repository Description (Chhota Vivaran)
-Ek line me batayein ki project kya hai:
+4. 📅 Data Source
+* **Dataset:** Cleaned Sales & Operations Dataset (Excel / CSV format)
+* **Time Period:** Fiscal Year 2025-26
+* **Data Volume:** 794 Transactions tracking over 2,000 product quantities
 
-* "An interactive sales performance dashboard for the year 2025-26, analyzing regional sales, category-wise quantities, and brand performance."
+5. ✨ Feature Highlights
 
-## 3. README.md File (Sabse Mahatvapurna)
-Aapki repository me ek README.md file honi chahiye, jisme ye saari headings aur details likhein:
+6. 📈 Executive KPI Cards
+* **Total Revenue:** $16.00 Million total sales achieved.
+* **Cost Tracking:** $12.00 Million total operational cost.
+* **Volume Sold:** 2.00 Thousand total product units moved.
+* **Sales Volume:** 794 high-value business transactions recorded.
 
-* Project Title: Sales Board Analysis (2025-26)
-* Project Overview: Batayein ki is project ka maksad kya hai (jaise: sales trends ko track karna aur supervisor performance dekhna).
-* Key Features (Dashboard ki khubiyan):
-* KPI Cards: Total Sales (16M), Total Cost (12M), Total Quantity (2K), aur Transactions (794).
-   * Quantity by Category: Bar chart jo Monitor, CPU, aur Mouse jise items ki sales quantity dikhata hai.
-   * Total Sales by Brand: Pie chart jo Intel (20.45%), Dell (15.25%), aur Samsung (15.05%) jaise brands ka market share dikhata hai.
-   * Geographical Mapping: Map visualization jo regional sales distribution dikhata hai.
-   * Interactive Filters: Supervisor-wise data filter karne ka option (Aadil Khan, Aarvi Gupta, etc.).
-* Tech Stack Used (Kaunse tools use kiye):
-* Jaise: Power BI / Tableau / Excel (jisbhi tool me aapne ise banaya hai).
-   * Data Source: (Agar Excel ya CSV file hai toh uska zikr karein).
-* How to Use / View:
-* Agar Power BI ki live link hai toh use add karein.
-   * Dashboard ka screenshot (ye image) README file me zaroor lagayein.
+7. 🗺️ Interactive Visualizations
+* **📦 Category Performance:** Vertical bar chart tracking quantity sold by product categories (Monitors, CPUs, Mouses, etc.).
+* **🍕 Brand Market Share:** Pie chart breaking down top brand performances, led by Intel (20.45%), Dell (15.25%), and Samsung (15.05%).
+* **📍 Regional Mapping:** Geographical map visualization detailing real-time sales density across different territories.
+* **👥 Supervisor Breakdown:** Interactive slice-and-dice filters to drill down performance by specific managers (e.g., Aadil Khan, Aarvi Gupta).
 
-------------------------------
-Aapko is project ke liye Power BI (.pbix) file upload karni hai ya Excel/Python code? Bataiye taaki main aapko us specific tool ke mutabiq .gitignore file aur exact command bata sakoon.
-# 4. Screenshots/Demos
-show what the dashboard looks like 1[Alt text](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/main/Snapshot%20of%20the%20Dashboard.png) 
-Example: 1[Dashboard Preview](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/main/Snapshot%20of%20the%20Dashboard.png)
+8. 💡 Business Impact & Insights
 
+* **💰 Profit Margin Analysis:** Identified a net profit overview of $4.00 Million ($16M Sales - $12M Cost), helping leadership evaluate overall pricing strategies and cost optimization opportunities.
+* **🏆 Market Share Leadership:** Discovered that Intel dominates product sales with 20.45% share, closely followed by Dell and Samsung, allowing the inventory team to prioritize high-demand stock.
+* **🎯 Operational Efficiency:** Enabled senior management to track and compare supervisor-wise metrics instantly, reducing the time spent on manual reporting by automating regional performance reviews.
+* **🚚 Resource Allocation:** Pinpointed high-performing geographical territories via map data, allowing the logistics and marketing teams to allocate resources where transaction density is highest.
+
+9.  Screenshorts / Demos
+Show what the dashboard looks like.
+Example:

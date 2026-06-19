@@ -30,6 +30,6 @@ Aapki repository me ek README.md file honi chahiye, jisme ye saari headings aur 
 ------------------------------
 Aapko is project ke liye Power BI (.pbix) file upload karni hai ya Excel/Python code? Bataiye taaki main aapko us specific tool ke mutabiq .gitignore file aur exact command bata sakoon.
 # 4. Screenshots/Demos
-show what the dashboard looks like 1[Alt text](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png) 
-Example: 1[Dashboard Preview](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+show what the dashboard looks like 1[Alt text](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/main/Snapshot%20of%20the%20Dashboard.png) 
+Example: 1[Dashboard Preview](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/main/Snapshot%20of%20the%20Dashboard.png)
 

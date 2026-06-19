@@ -36,4 +36,6 @@ An interactive and dynamic data analytics dashboard designed to track business p
 9.  Screenshorts / Demos
 Show what the dashboard looks like. 1[Alt text](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)
 Example: 1[Dashboard Preview](https://github.com/tanusamadhiya3679-code/Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)
+<img width="614" height="338" alt="Dashboard Snapshot" src="https://github.com/user-attachments/assets/732c8605-b1ea-44fb-acac-24827e9ef2c6" />
+
 

@@ -1,5 +1,4 @@
-GitHub par is dashboard project ko upload karte samay ek badhiya aur professional repository banana zaroori hai. Iske liye aap niche di gayi cheezein likh sakte hain:
-## 1. Repository Name (Project ka Naam)
+# 1. Repository Name (Project ka Naam)
 Ek chhota aur clear naam rakhein:
 
 * sales-dashboard-2025-26

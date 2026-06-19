@@ -34,5 +34,5 @@ An interactive and dynamic data analytics dashboard designed to track business p
 * **🚚 Resource Allocation:** Pinpointed high-performing geographical territories via map data, allowing the logistics and marketing teams to allocate resources where transaction density is highest.
 
 9.  Screenshorts / Demos
-Show what the dashboard looks like.
-Example:
+Show what the dashboard looks like. 1[Alt text](https://github.com/tanusamadhiya3679-code/Sales-Dashboard)
+Example: 1[Dashboard Preview](https://github.com/tanusamadhiya3679-code/Sales-Dashboard)
